@@ -1,0 +1,21 @@
+{
+  "name": "todo-list-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www "
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.3",
+    "express": "~4.16.1",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.2",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

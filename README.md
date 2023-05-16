@@ -7,6 +7,7 @@ Backend project developed for [**to-do list**](https://github.com/halikali/todo-
 ## Tech Stack
 
 - JavaScript
+- Node.js
 - Express
 - JWT
 - MongoDB
